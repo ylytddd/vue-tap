@@ -1,0 +1,20 @@
+{
+  "name": "vue-tap",
+  "version": "1.0.0",
+  "description": "tap event plugin for Vue.js",
+  "main": "vue-tap.js",
+  "scripts": {
+    "build": "webpack --progress",
+    "watch": "webpack --progress --watch"
+  },
+  "keywords": [
+    "vue",
+    "tap"
+  ],
+  "devDependencies": {
+    "vue": "^1.0.26",
+    "webpack": "^1.13.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
