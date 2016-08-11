@@ -1,9 +1,9 @@
 var webpack = require('webpack');
 
 module.exports = {
-  entry: ['./main.js'],
+  entry: ['./test/main.js'],
   output: {
-    path: './',
+    path: './test/',
     filename: 'build.js'
   },
   babel: {
