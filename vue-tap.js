@@ -18,7 +18,6 @@
 
 			if(this.dx < 10 && this.dy < 10) {
 				cb();
-				this.isTap = true;
 			}			
 		};
 		 // 用于判断tap是否可以被触发， 提示切换到手机模式
